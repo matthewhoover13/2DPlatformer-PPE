@@ -5,9 +5,4 @@ How to Play:
 2) Extract the files (do not remove times.txt)
 3) Launch main.exe
 
-Controls:
-UI - Arrow Keys + Enter
-Move Left - A
-Move Right - D
-Jump - Space
-Pause - Escape
+Controls: UI - Arrow Keys + Enter | Move Left - A | Move Right - D | Jump - Space | Pause - Escape
